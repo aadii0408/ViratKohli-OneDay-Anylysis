@@ -2,7 +2,7 @@
 
 # Information About the DataSet:
 
-Runs: Runs in the match
+- Runs: Runs in the match
 mins: Total time taken by Virat to score the runs. Essentially the time for which Virat batted in that match.
 BF: Balls faced in the match
 4s: number of 4s in a match
